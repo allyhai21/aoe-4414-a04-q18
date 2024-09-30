@@ -9,8 +9,8 @@
 # Output:
 #  A description of the script output
 #
-# Written by First Last
-# Other contributors: None
+# Written by Brad Denby
+# Other contributors: Allison Hai
 #
 # Optional license statement, e.g., See the LICENSE file for the license.
 
